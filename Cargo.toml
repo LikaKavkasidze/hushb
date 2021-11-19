@@ -1,0 +1,9 @@
+[package]
+name = "hushb"
+version = "0.1.0"
+authors = ["Titouan (Stalone) S. <talone@boxph.one>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.3"
+atty = "0.2.14"
